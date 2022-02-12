@@ -1,0 +1,9 @@
+name: BetterClaimChunk
+version: ${project.version}
+main: com.github.twosquirrels.betterclaimchunk.BetterClaimChunk
+api-version: 1.17
+loadbefore: [ ClaimChunk ]
+depend: [ ClaimChunk ]
+authors: [ Twosquirrels ]
+description: ClaimChunk プラグインの拡張プラグイン
+website: https://github.com/TwoSquirrels/BetterClaimChunk
