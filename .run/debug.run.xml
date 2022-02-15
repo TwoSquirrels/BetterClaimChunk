@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="debug" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/server/paper-1.17.1-408.jar" />
+    <option name="PROGRAM_PARAMETERS" value="nogui" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="BetterClaimChunk" />
+    <method v="2" />
+  </configuration>
+</component>
